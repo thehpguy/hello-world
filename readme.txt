@@ -1,3 +1,3 @@
 Hello!
 
-New line
+No more new line
